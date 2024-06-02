@@ -85,3 +85,9 @@ This project aims to develop a machine learning model to predict future energy c
 
 ## Summary
 This project successfully demonstrates the application of machine learning techniques to forecast energy consumption in the PJME region. The model leverages time-based features, Fourier series terms, and lagged variables to capture complex patterns in the data. Using XGBoost with rigorous cross-validation and hyperparameter tuning, the model achieves excellent performance metrics, indicating its robustness and accuracy. Future predictions provide valuable insights into expected energy consumption trends, aiding in efficient energy management and planning.
+
+<img width="653" alt="prediction on current data" src="https://github.com/SulemanShahani/Time-Series-Forecasting-for-Energy-Consumption-in-PJME-Region/assets/164818514/3e168516-513b-41a2-9f44-63beb0f87e1b">
+
+<img width="650" alt="predictions on future year" src="https://github.com/SulemanShahani/Time-Series-Forecasting-for-Energy-Consumption-in-PJME-Region/assets/164818514/a2a8610a-b270-4c7d-a0c7-dbe80d5910fc">
+
+
